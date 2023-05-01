@@ -7,6 +7,7 @@ FilePath: /VSCode_Python/test1.py
 
 '''
 # 测试
+# pycharm
 import sys
 import torch
 print(sys.version)
